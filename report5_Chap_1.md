@@ -1,4 +1,4 @@
-# Report 5-2 [이전으로](https://github.com/GomWoong/processing/edit/master/report5_Chap_1.md)
+# Report 5-2 [](https://github.com/GomWoong/processing/blob/master/README.md)
 ## 안동대학교 김대현
 ```
 
